@@ -1,0 +1,26 @@
+.titulo {
+    text-align: center;
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    padding: 10px;
+}
+.footer {
+    background-color: honeydew;
+    text-align: center;
+    padding: 50px;
+}
+.galeria{
+ background-color: gray;
+  border-radius: 5px;
+}
+.quemsomos{
+    background-color: gray;
+    border-radius: 5px;
+}
